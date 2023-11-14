@@ -6,7 +6,7 @@
 
 ## 🎓 Education
 - Data Analyst Certification Program | CareerFoundry (_October 2023_)								       		
-- B.A., Christian Ministry	| Trinity International University (_May 2006_)	 			        		
+- B.A., Christian Ministry | Trinity International University (_May 2006_)	 			        		
 
 ## 📈 Data Analyst Projects
 ### Python
