@@ -18,6 +18,9 @@ Project Goal:  Perform an initial data and exploratory analysis of some of their
 
 Project Goal:  Build an interactive dashboard showing the results of an advanced exploratory analysis on U.S. Home Buying conducted in Python.
 
+![Home Values](/Images/Home Values by State.jpeg)
+
+
 
 ### SQL
 [Online Video Rental Company Analysis](https://github.com/petronaalexander/SQL_queries_Rockbuster_Stealth_Project.git)
