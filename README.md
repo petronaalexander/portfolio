@@ -2,20 +2,24 @@
 
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, Tableau, Excel
 
 ## 🎓 Education
 - Data Analyst Certification Program | CareerFoundry (_October 2023_)								       		
 - B.A., Christian Ministry	| Trinity International University (_May 2006_)	 			        		
 
-<h2>📈 Data Analyst Projects:</h2>
-
-- <b>Python</b>
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+## 📈 Data Analyst Projects
+### Python
 [Instacart Grocery Basket Analysis](https://github.com/petronaalexander/Python_code_Instacart_Analysis)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Performed an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
+
+### Data-Driven EEG Band Discovery with Decision Trees
+[U.S. Home Buying Analysis](https://github.com/petronaalexander/Python_code_Mortgage_Loans_Analysis.git)
+
+Build an interactive dashboard showing the results of an advanced exploratory analysis on U.S. Home Buying conducted in Python.
+
+
 
 
 
