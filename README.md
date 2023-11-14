@@ -1,6 +1,6 @@
 <h1>Hi, I'm Petrona! 
 
-<h2>👨‍💻 Data Analyst Projects:</h2>
+<h2>📈 Data Analyst Projects:</h2>
 
 - <b>Python</b>
   - [Instacart Grocery Basket Analysis](https://github.com/petronaalexander/Python_code_Instacart_Analysis)
@@ -11,9 +11,9 @@
   - [U.S. Home Buying Analysis](https://public.tableau.com/app/profile/petrona.alexander/viz/HomeBuyingAnalysis/U_S_HomebuyingAnalysis)
   - [Preparing for Influenza Season Project](https://public.tableau.com/app/profile/petrona.alexander/viz/PreparingforInfluenzaSeasonStoryboard_16868796319990/Story1) 
 
+<h2> 📄 Certifications</h2>
 
-
-<h2> 🤳 Connect with me:</h2>
+<h2> 📞 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
