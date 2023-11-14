@@ -1,14 +1,21 @@
 <h1>Hi, I'm Petrona! 
 
-<h2>🎓 Education
-Data Analytics Program Certification | Career Foundry | October, 2023
-Bachelor of Arts in Christian Ministry | Trinity Internation University | May, 2006
+# Data Scientist
+
+#### Technical Skills: Python, SQL, Tableau, Excel
+
+## 🎓 Education
+- Data Analyst Certification Program | CareerFoundry (_October 2023_)								       		
+- B.A., Christian Ministry	| Trinity International University (_May 2006_)	 			        		
 
 <h2>📈 Data Analyst Projects:</h2>
 
 - <b>Python</b>
-  - [Instacart Grocery Basket Analysis](https://github.com/petronaalexander/Python_code_Instacart_Analysis)
-  - [U.S. Home Buying Analysis](https://github.com/petronaalexander/Python_code_Mortgage_Loans_Analysis.git)
+
+    - [Instacart Grocery Basket Analysis](https://github.com/petronaalexander/Python_code_Instacart_Analysis)
+
+    - [U.S. Home Buying Analysis](https://github.com/petronaalexander/Python_code_Mortgage_Loans_Analysis.git)
+  
 - <b>SQL</b>
   - [Online Video Rental Company Analysis](https://github.com/petronaalexander/SQL_queries_Rockbuster_Stealth_Project.git)
 - <b>Tableau</b>
