@@ -1,5 +1,9 @@
 <h1>Hi, I'm Petrona! 
 
+<h2>🎓 Education
+Data Analytics Program Certification | Career Foundry | October, 2023
+Bachelor of Arts in Christian Ministry | Trinity Internation University | May, 2006
+
 <h2>📈 Data Analyst Projects:</h2>
 
 - <b>Python</b>
