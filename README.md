@@ -47,4 +47,5 @@ Project Goal:  Build an interactive dashboard showing the results of an advanced
 
 [LinkedIn](https://linkedin.com/in/petronaalexander)
 
+[My Resume](https://github.com/petronaalexander/resume/blob/main/Alexander-Petrona-Resume.pdf)
 
