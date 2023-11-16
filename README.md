@@ -23,8 +23,6 @@
 ### Python
 [Instacart Grocery Basket Analysis](https://github.com/petronaalexander/Python_code_Instacart_Analysis)
 
-Project Goal:  Perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
-
 ![Instacart1](/Images/Instacart 1.png)
 
 
@@ -33,8 +31,6 @@ Project Goal:  Perform an initial data and exploratory analysis of some of their
 
 
 [U.S. Home Buying Analysis](https://github.com/petronaalexander/Python_code_Mortgage_Loans_Analysis.git)
-
-Project Goal:  Build an interactive dashboard showing the results of an advanced exploratory analysis on U.S. Home Buying conducted in Python.
 
 ![Homebuying1](/Images/Homebuying 1.png)
 
@@ -58,8 +54,6 @@ Project Goal:  Build an interactive dashboard showing the results of an advanced
 ### SQL
 [Online Video Rental Company Analysis](https://github.com/petronaalexander/SQL_queries_Rockbuster_Stealth_Project.git)
 
-Project Goal:  Help with launch strategy for new online video service.
-
 ![Online Video](/Images/Online Video Svc Launch Strategy.png)
 
 
@@ -79,9 +73,17 @@ Project Goal:  Help with launch strategy for new online video service.
 ### Tableau
 [Preparing for Influenza Season Project](https://public.tableau.com/app/profile/petrona.alexander/viz/PreparingforInfluenzaSeasonStoryboard_16868796319990/Story1)
 
-Project Goal:  Determine temporary staffing needs for each state for the upcoming influenza season.
 
 ![Influenza](/Images/Influenza green.png)
+
+![Influenza1](/Images/Influenza 1.png)
+
+
+![Influenza2](/Images/Influenza 2.png)
+
+
+![Influenza3](/Images/Influenza 3.png)
+
 
 
 [U.S. Home Buying Analysis](https://public.tableau.com/app/profile/petrona.alexander/viz/HomeBuyingAnalysis/U_S_HomebuyingAnalysis)
