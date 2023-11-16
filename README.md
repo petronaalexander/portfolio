@@ -1,6 +1,6 @@
 <h1>Hi, I'm Petrona!</h1> 
 
-![Profile](/Images/Profile.png)
+![Profile](/Images/Profile sm.png)
 
 ## Data Analyst
 
