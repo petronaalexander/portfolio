@@ -25,12 +25,33 @@
 
 Project Goal:  Perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
 
+![Instacart1](/Images/Instacart 1.png)
+
+
+![Instacart2](/Images/Instacart 2.png)
+
+
 
 [U.S. Home Buying Analysis](https://github.com/petronaalexander/Python_code_Mortgage_Loans_Analysis.git)
 
 Project Goal:  Build an interactive dashboard showing the results of an advanced exploratory analysis on U.S. Home Buying conducted in Python.
 
+![Homebuying1](/Images/Homebuying 1.png)
+
+
 ![Home Values](/Images/Home Values by State.png)
+
+
+![Homebuying2](/Images/Homebuying 2.png)
+
+
+![Homebuying3](/Images/Homebuying 3.png)
+
+
+![Homebuying4](/Images/Homebuying 4.png)
+
+
+![Homebuying5](/Images/Homebuying 5.png)
 
 
 
@@ -40,6 +61,18 @@ Project Goal:  Build an interactive dashboard showing the results of an advanced
 Project Goal:  Help with launch strategy for new online video service.
 
 ![Online Video](/Images/Online Video Svc Launch Strategy.png)
+
+
+![Online Video Rental1](/Images/Online Video Rental 1.png)
+
+
+![Online Video Rental2](/Images/Online Video Rental 2.png)
+
+
+![Online Video Rental3](/Images/Online Video Rental 3.png)
+
+
+![Online Video Rental4](/Images/Online Video Rental 4.png)
 
 
 
