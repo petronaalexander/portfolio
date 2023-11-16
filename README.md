@@ -1,5 +1,7 @@
 <h1>Hi, I'm Petrona!</h1> 
 
+![Profile](/Images/Profile.png)
+
 ## Data Analyst
 
 #### Technical Skills: Python, SQL, Tableau, Excel
