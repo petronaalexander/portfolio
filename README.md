@@ -35,11 +35,17 @@ Project Goal:  Build an interactive dashboard showing the results of an advanced
 
 Project Goal:  Help with launch strategy for new online video service.
 
+![Online Video](/Images/Online Video Svc Launch Strategy.png)
+
+
 
 ### Tableau
 [Preparing for Influenza Season Project](https://public.tableau.com/app/profile/petrona.alexander/viz/PreparingforInfluenzaSeasonStoryboard_16868796319990/Story1)
 
 Project Goal:  Determine temporary staffing needs for each state for the upcoming influenza season.
+
+![Influenza](/Images/Influenza green.png)
+
 
 [U.S. Home Buying Analysis](https://public.tableau.com/app/profile/petrona.alexander/viz/HomeBuyingAnalysis/U_S_HomebuyingAnalysis)
 
