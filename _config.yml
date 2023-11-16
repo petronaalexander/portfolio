@@ -1,3 +1,5 @@
 title: Petrona Alexander
-logo: /Images/Profile.PNG
+logo: /Images/Profile.png
+#description: text below image
+show_downloads: true
 theme: jekyll-theme-cayman
