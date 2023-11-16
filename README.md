@@ -92,6 +92,22 @@
 Project Goal:  Build an interactive dashboard showing the results of an advanced exploratory analysis on U.S. Home Buying conducted in Python.
 
 
+
+
+### Excel
+Video Game Popularity Data Project
+
+![Video Game1](/Images/Video Game Popularity 1.png)
+
+
+![Video Game2](/Images/Video Game Popularity 2.png)
+
+
+![Video Game3](/Images/Video Game Popularity 3.png)
+
+
+
+
 <h2> 📞 Connect with me:</h2>
 
 [LinkedIn](https://linkedin.com/in/petronaalexander)
